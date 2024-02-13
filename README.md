@@ -1,4 +1,4 @@
-Why do we need Resume Screening?
+##Why do we need Resume Screening?##
 For each recruitment, companies take out the resume, referrals and go through them manually.
 Companies often received thousands of resumes for every job posting.
 When companies collect resumes then they categorize those resumes according to their requirements and then they send the collected resumes to the Hiring Team's.
